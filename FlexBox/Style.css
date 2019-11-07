@@ -1,0 +1,38 @@
+a
+{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+li
+{
+    
+    list-style-type: none;
+    
+}
+
+a:hover
+{
+    color: blue;
+    background-color: white;
+}
+
+ul
+{
+    padding: 0px;
+    margin: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#menu
+{
+    background-color: #2696E8;
+    margin: 0px auto;
+    width: 700px;
+    border: blue 1px solid;
+}
